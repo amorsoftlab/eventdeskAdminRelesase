@@ -1,0 +1,6 @@
+﻿## [1.0.0] - 2026-06-13
+
+### Added / Changed
+- Under-the-hood improvements and bug fixes.
+
+
